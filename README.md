@@ -35,3 +35,6 @@ Wanderlust is a full-stack travel listing web application that allows users to e
 **Media & Maps**  
 - Cloudinary for image storage  
 - Mapbox API for geolocation and map integration
+ 
+
+
