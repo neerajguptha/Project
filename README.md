@@ -37,5 +37,5 @@ Wanderlust is a full-stack travel listing web application that allows users to e
 - Mapbox API for geolocation and map integration
  
 ## 📸 Screenshots
-
+![image alt] (https://github.com/neerajguptha/WanderLust/blob/75e817b84005c3170087f89ce1cc4fc5c5dfa0a5/Screenshots/ScreenShot1.png)
 
